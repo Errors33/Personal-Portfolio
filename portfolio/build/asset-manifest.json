@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e4ca2c4.css",
+    "main.js": "/static/js/main.a98d79a2.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/InternshalaResume.pdf": "/static/media/InternshalaResume.31b17d8f72e41b857391.pdf",
+    "index.html": "/index.html",
+    "main.3e4ca2c4.css.map": "/static/css/main.3e4ca2c4.css.map",
+    "main.a98d79a2.js.map": "/static/js/main.a98d79a2.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e4ca2c4.css",
+    "static/js/main.a98d79a2.js"
+  ]
+}
